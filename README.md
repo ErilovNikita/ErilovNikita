@@ -4,3 +4,4 @@
 - ➰ UI/UX Design Creator
 - 🏠 Home Assistant integration developer
 - ⚡ I like to drink, well, you already understood
+- ✈ tg: @minitwiks
