@@ -2,6 +2,7 @@
 
 - ➰ UI/UX Design Creator
 - 🏠 Home Assistant integration developer
+- 🤖 Naumen Service Desk developer
 - ✈ tg: @minitwiks
 
 -----------
